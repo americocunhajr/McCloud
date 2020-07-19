@@ -20,7 +20,8 @@ This GitHub repository stores the codes and results related to a Monte Carlo sim
 - Hélio Lopes
 - Karin Breitman
 
-## Citing
+## Citing McCloud
+
 We ask the code users to cite the following manuscript in any publications reporting work done with **McCloud**:
 - *R. Nasser, McCloud service framework: development services of Monte Carlo simulation in the cloud, M.Sc. Dissertation, Pontifícia Universidade Católica do
 Rio de Janeiro, Rio de Janeiro, 2012 (in Portuguese)*
