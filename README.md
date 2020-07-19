@@ -1,4 +1,4 @@
-<img src="logo/McCloud.png" width="40%">
+<img src="logo/McCloud.png" width="20%">
 
 **McCloud - Monte Carlo Cloud Service Framework** provides a generic service implementation of Monte Carlo method, based on Microsoft Windows Azure, to solve a wide range of scientific and engineering problems.
 
