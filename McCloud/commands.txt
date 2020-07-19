@@ -1,0 +1,19 @@
+nohup matlab -r "McCloudProcess('3','0','case1a','case1a_process.csv')" -logfile "data1a.log" 1>stdout1a.out 2>err1a.out &
+McCloudMerge('3','case1a','case1a_process.csv','case1a_merge.csv');
+sed -e "s/'//g" case1a_merge.csv > case1a_post.dat
+McCloudPost('3','case1a','case1a_post.dat');
+
+nohup matlab -r "McCloudProcess('3','0','case1b','case1b_process.csv')" -logfile "data1b.log" 1>stdout1b.out 2>err1b.out &
+McCloudMerge('3','case1b','case1b_process.csv','case1b_merge.csv');
+sed -e "s/'//g" case1b_merge.csv > case1b_post.dat
+McCloudPost('3','case1b','case1b_post.dat');
+
+nohup matlab -r "McCloudProcess('3','0','case1c','case1c_process.csv')" -logfile "data1c.log" 1>stdout1c.out 2>err1c.out &
+McCloudMerge('3','case1c','case1c_process.csv','case1c_merge.csv');
+sed -e "s/'//g" case1c_merge.csv > case1c_post.dat
+McCloudPost('3','case1c','case1c_post.dat');
+
+nohup matlab -r "McCloudProcess('3','0','case1d','case1d_process.csv')" -logfile "data1d.log" 1>stdout1d.out 2>err1d.out &
+McCloudMerge('3','case1d','case1d_process.csv','case1d_merge.csv');
+sed -e "s/'//g" case1d_merge.csv > case1d_post.dat
+McCloudPost('3','case1d','case1d_post.dat');
