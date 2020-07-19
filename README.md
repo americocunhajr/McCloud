@@ -7,6 +7,7 @@ The framework was developed in the context of the following master's thesis:
 Rio de Janeiro, Rio de Janeiro, 2012 (in Portuguese)*
 
 The original code and documentation of the framework can be downloaded in the Codeplex official repository:
+
 http://mccloud.codeplex.com
 
 This GitHub repository stores the codes and results related to a Monte Carlo simulation in a structural system that was used as a benchmark test for the framework. Details can be seen in the following paper:
