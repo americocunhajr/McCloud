@@ -38,7 +38,7 @@ Rio de Janeiro, Rio de Janeiro, 2012 (in Portuguese)*
 }
 
 @article{CunhaJr2014p1355,
-  author  = {A. {Cunha Jr} and R. Nasser and R. Sampaio and H. Lopes and K. Breitman},
+  author  = {A. {Cunha~Jr} and R. Nasser and R. Sampaio and H. Lopes and K. Breitman},
   title   = {Uncertainty quantification through {M}onte {C}arlo method in a cloud computing setting},
   journal = {Computer Physics Communications},
   year    = {2014},
