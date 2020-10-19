@@ -26,3 +26,24 @@ We ask the code users to cite the following manuscript in any publications repor
 - *R. Nasser, McCloud service framework: development services of Monte Carlo simulation in the cloud, M.Sc. Dissertation, Pontifícia Universidade Católica do
 Rio de Janeiro, Rio de Janeiro, 2012 (in Portuguese)*
 - *A. Cunha Jr, R. Nasser, R. Sampaio, H. Lopes, and K. Breitman, Uncertainty quantification through Monte Carlo method in a cloud computing setting, Computer Physics Communications, v. 185, pp. 1355-1363, 2014* http://dx.doi.org/10.1016/j.cpc.2014.01.006
+
+```
+@mastersthesis{Nasser2012,
+  author  = {R. Nasser},
+  title   = {{McCloud} service framework: development services of {M}onte {C}arlo simulation in the cloud},
+  school  = {Pontifícia Universidade Católica do Rio de Janeiro},
+  year    = {2012},
+  address = {Rio de Janeiro},
+  note    = {(in Portuguese)},
+}
+
+@article{CunhaJr2014p1355,
+  author  = {A. {Cunha Jr} and R. Nasser and R. Sampaio and H. Lopes and K. Breitman},
+  title   = {Uncertainty quantification through {M}onte {C}arlo method in a cloud computing setting},
+  journal = {Computer Physics Communications},
+  year    = {2014},
+  volume  = {185},
+  pages   = {1355-1363},
+  doi     = {http://dx.doi.org/10.1016/j.cpc.2014.01.006},
+}
+```
