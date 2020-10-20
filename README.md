@@ -50,4 +50,4 @@ Rio de Janeiro, Rio de Janeiro, 2012 (in Portuguese)*
 
 ## Funding
 
-<img src="logo/faperj.jpg" width="20%"> &nbsp; &nbsp; <img src="logo/cnpq.png" width="20%"> &nbsp; &nbsp; <img src="logo/capes.png" width="10%"> &nbsp; &nbsp; <img src="logo/MS_Azure.jpg" width="20%">
+<img src="logo/faperj.jpg" width="20%"> &nbsp; &nbsp; <img src="logo/cnpq.png" width="20%"> &nbsp; &nbsp; <img src="logo/capes.png" width="10%"> &nbsp; <img src="logo/MS_Azure.jpg" width="20%">
