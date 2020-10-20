@@ -47,3 +47,7 @@ Rio de Janeiro, Rio de Janeiro, 2012 (in Portuguese)*
   doi     = {http://dx.doi.org/10.1016/j.cpc.2014.01.006},
 }
 ```
+
+## Funding
+
+<img src="logo/faperj.jpg" width="20%"> &nbsp; &nbsp; <img src="logo/cnpq.png" width="20%"> &nbsp; &nbsp; <img src="logo/capes.png" width="10%">
