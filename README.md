@@ -30,7 +30,7 @@ Rio de Janeiro, Rio de Janeiro, 2012 (in Portuguese)*
 ```
 @mastersthesis{Nasser2012,
   author  = {R. Nasser},
-  title   = {{McCloud} service framework: development services of {M}onte {C}arlo simulation in the cloud},
+  title   = {McCloud service framework: development services of {M}onte {C}arlo simulation in the cloud},
   school  = {Pontifícia Universidade Católica do Rio de Janeiro},
   year    = {2012},
   address = {Rio de Janeiro},
