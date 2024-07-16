@@ -34,9 +34,11 @@ To get started with McCloud, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/McCloud.git
+   ```
 2. Navigate to the code directory:
    ```bash
    cd McCloud/McCloud
+   ```
 3. Execute:
    ```bash
    McCloudProcess('3','0','case1a','case1a_process.csv')
