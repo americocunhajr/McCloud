@@ -7,7 +7,7 @@
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
-- [Installation](#installation)
+- [Usage](#usage)
 - [Authors](#authors)
 - [Citing McCloud](#citing-mccloud)
 - [Institutional Support](#institutional-support)
@@ -29,7 +29,7 @@ This GitHub repository includes codes and results from a benchmark Monte Carlo s
 - Scalable and efficient solution for scientific and engineering simulations
 - Extensive documentation and examples
 
-## Installation
+## Usage
 To get started with McCloud, follow these steps:
 1. Clone the repository:
    ```bash
@@ -37,6 +37,13 @@ To get started with McCloud, follow these steps:
 2. Navigate to the code directory:
    ```bash
    cd McCloud/McCloud
+3. Execute:
+   ```bash
+   McCloudProcess('3','0','case1a','case1a_process.csv')
+   McCloudMerge('3','case1a','case1a_process.csv','case1a_merge.csv')
+   sed -e "s/'//g" case1a_merge.csv > case1a_post.dat
+   McCloudPost('3','case1a','case1a_post.dat')
+   ```
 
 ## Authors
 - Americo Cunha
