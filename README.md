@@ -1,17 +1,42 @@
 <img src="logo/McCloud.png" width="20%">
 
-**McCloud: Monte Carlo Cloud Service Framework** provides a generic service implementation of Monte Carlo method, based on Microsoft Windows Azure, to solve a wide range of scientific and engineering problems. 
+# McCloud: Monte Carlo Cloud Service Framework
 
-The framework was developed in the context of the following master's thesis:
-- *R. Nasser, McCloud service framework: development services of Monte Carlo simulation in the cloud, M.Sc. Dissertation, Pontifícia Universidade Católica do
-Rio de Janeiro, Rio de Janeiro, 2012 (in Portuguese)*
+**McCloud** is a powerful framework providing a generic implementation of the Monte Carlo method on Microsoft Windows Azure. It is designed to solve a wide range of scientific and engineering problems efficiently in the cloud.
 
-The original code and documentation of the framework can be downloaded in the Codeplex official repository:
+## Table of Contents
+- [Overview](#overview)
+- [Features](#features)
+- [Installation](#installation)
+- [Authors](#authors)
+- [Citing McCloud](#citing-mccloud)
+- [Institutional Support](#institutional-support)
+- [Funding](#funding)
 
-http://mccloud.codeplex.com
+## Overview
+McCloud was developed as part of the following master's thesis:
+- **R. Nasser**, *McCloud service framework: development services of Monte Carlo simulation in the cloud*, M.Sc. Dissertation, Pontifícia Universidade Católica do Rio de Janeiro, Rio de Janeiro, 2012 (in Portuguese).
 
-This GitHub repository stores the codes and results related to a Monte Carlo simulation in a structural system that was used as a benchmark test for the framework. Details can be seen in the following paper:
-- *A. Cunha Jr, R. Nasser, R. Sampaio, H. Lopes, and K. Breitman, Uncertainty quantification through Monte Carlo method in a cloud computing setting, Computer Physics Communications, v. 185, pp. 1355-1363, 2014* http://dx.doi.org/10.1016/j.cpc.2014.01.006
+The original code and documentation are available on the Codeplex repository:
+[McCloud Codeplex Repository](http://mccloud.codeplex.com)
+
+This GitHub repository includes codes and results from a benchmark Monte Carlo simulation on a structural system, detailed in the following paper:
+- **A. Cunha Jr, R. Nasser, R. Sampaio, H. Lopes, and K. Breitman**, *Uncertainty quantification through Monte Carlo method in a cloud computing setting*, Computer Physics Communications, 185, pp. 1355-1363, 2014. [DOI](http://dx.doi.org/10.1016/j.cpc.2014.01.006)
+
+## Features
+- Generic Monte Carlo service implementation
+- Cloud-based computation using Microsoft Windows Azure
+- Scalable and efficient solution for scientific and engineering simulations
+- Extensive documentation and examples
+
+## Installation
+To get started with McCloud, follow these steps:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/McCloud.git
+2. Navigate to the code directory:
+   ```bash
+   cd McCloud/McCloud-1.0
 
 ## Authors
 - Americo Cunha
@@ -22,21 +47,10 @@ This GitHub repository stores the codes and results related to a Monte Carlo sim
 
 ## Citing McCloud
 
-We ask the code users to cite the following manuscript in any publications reporting work done with **McCloud**:
+If you use **McCloud** in your research, please cite the following publications:
+- *A. Cunha Jr, R. Nasser, R. Sampaio, H. Lopes, and K. Breitman, Uncertainty quantification through Monte Carlo method in a cloud computing setting, Computer Physics Communications, v. 185, pp. 1355-1363, 2014 http://dx.doi.org/10.1016/j.cpc.2014.01.006*
 - *R. Nasser, McCloud service framework: development services of Monte Carlo simulation in the cloud, M.Sc. Dissertation, Pontifícia Universidade Católica do
 Rio de Janeiro, Rio de Janeiro, 2012 (in Portuguese)*
-- *A. Cunha Jr, R. Nasser, R. Sampaio, H. Lopes, and K. Breitman, Uncertainty quantification through Monte Carlo method in a cloud computing setting, Computer Physics Communications, v. 185, pp. 1355-1363, 2014 http://dx.doi.org/10.1016/j.cpc.2014.01.006*
-
-```
-@mastersthesis{Nasser2012,
-  author  = {R. Nasser},
-  title   = { {McCloud} service framework: development services of {M}onte {C}arlo simulation in the cloud},
-  school  = {Pontifícia Universidade Católica do Rio de Janeiro},
-  year    = {2012},
-  address = {Rio de Janeiro},
-  note    = {(in Portuguese)},
-}
-```
 
 ```
 @article{CunhaJr2014p1355,
@@ -47,6 +61,17 @@ Rio de Janeiro, Rio de Janeiro, 2012 (in Portuguese)*
   volume  = {185},
   pages   = {1355-1363},
   doi     = {http://dx.doi.org/10.1016/j.cpc.2014.01.006},
+}
+```
+
+```
+@mastersthesis{Nasser2012,
+  author  = {R. Nasser},
+  title   = { {McCloud} service framework: development services of {M}onte {C}arlo simulation in the cloud},
+  school  = {Pontifícia Universidade Católica do Rio de Janeiro},
+  year    = {2012},
+  address = {Rio de Janeiro},
+  note    = {(in Portuguese)},
 }
 ```
 
