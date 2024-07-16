@@ -36,7 +36,7 @@ To get started with McCloud, follow these steps:
    git clone https://github.com/yourusername/McCloud.git
 2. Navigate to the code directory:
    ```bash
-   cd McCloud/McCloud-1.0
+   cd McCloud/McCloud
 
 ## Authors
 - Americo Cunha
