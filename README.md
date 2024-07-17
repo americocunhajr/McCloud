@@ -1,8 +1,7 @@
-<img src="logo/McCloud.png" width="20%">
-
+## McCloud: Monte Carlo Cloud Service Framework
 **McCloud: Monte Carlo Cloud Service Framework** is a powerful framework providing a generic implementation of the Monte Carlo method on Microsoft Windows Azure. It is designed to solve a wide range of scientific and engineering problems efficiently in the cloud.
 
-## Table of Contents
+### Table of Contents
 - [Overview](#overview)
 - [Features](#features)
 - [Usage](#usage)
@@ -11,7 +10,7 @@
 - [Institutional Support](#institutional-support)
 - [Funding](#funding)
 
-## Overview
+### Overview
 McCloud was developed as part of the following master's thesis:
 - **R. Nasser**, *McCloud service framework: development services of Monte Carlo simulation in the cloud*, M.Sc. Dissertation, Pontifícia Universidade Católica do Rio de Janeiro, Rio de Janeiro, 2012 (in Portuguese).
 
@@ -21,13 +20,13 @@ The original code and documentation are available on the Codeplex repository:
 This GitHub repository includes codes and results from a benchmark Monte Carlo simulation on a structural system, detailed in the following paper:
 - **A. Cunha Jr, R. Nasser, R. Sampaio, H. Lopes, and K. Breitman**, *Uncertainty quantification through Monte Carlo method in a cloud computing setting*, Computer Physics Communications, 185, pp. 1355-1363, 2014. [DOI](http://dx.doi.org/10.1016/j.cpc.2014.01.006)
 
-## Features
+### Features
 - Generic Monte Carlo service implementation
 - Cloud-based computation using Microsoft Windows Azure
 - Scalable and efficient solution for scientific and engineering simulations
 - Extensive documentation and examples
 
-## Usage
+### Usage
 To get started with McCloud, follow these steps:
 1. Clone the repository:
    ```bash
@@ -45,15 +44,14 @@ To get started with McCloud, follow these steps:
    McCloudPost('3','case1a','case1a_post.dat')
    ```
 
-## Authors
+### Authors
 - Americo Cunha
 - Rafael Nasser
 - Rubens Sampaio
 - Hélio Lopes
 - Karin Breitman
 
-## Citing McCloud
-
+### Citing McCloud
 If you use **McCloud** in your research, please cite the following publications:
 - *A. Cunha Jr, R. Nasser, R. Sampaio, H. Lopes, and K. Breitman, Uncertainty quantification through Monte Carlo method in a cloud computing setting, Computer Physics Communications, v. 185, pp. 1355-1363, 2014 http://dx.doi.org/10.1016/j.cpc.2014.01.006*
 - *R. Nasser, McCloud service framework: development services of Monte Carlo simulation in the cloud, M.Sc. Dissertation, Pontifícia Universidade Católica do
@@ -82,10 +80,10 @@ Rio de Janeiro, Rio de Janeiro, 2012 (in Portuguese)*
 }
 ```
 
-## Institutional support
+### Institutional support
 
 <img src="logo/logo_pucrio_color.jpg" width="07%">
 
-## Funding
+### Funding
 
 <img src="logo/faperj.jpg" width="20%"> &nbsp; &nbsp; <img src="logo/cnpq.png" width="20%"> &nbsp; &nbsp; <img src="logo/capes.png" width="10%"> &nbsp; <img src="logo/MS_Azure.jpg" width="20%">
