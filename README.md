@@ -31,7 +31,7 @@ This GitHub repository includes codes and results from a benchmark Monte Carlo s
 To get started with McCloud, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/McCloud.git
+   git clone https://github.com/americocunhajr/McCloud.git
    ```
 2. Navigate to the code directory:
    ```bash
