@@ -86,8 +86,8 @@ Rio de Janeiro, Rio de Janeiro, 2012 (in Portuguese)*
 
 ### Institutional support
 
-<img src="logo/logo_pucrio_color.jpg" width="07%">
+<img src="logo/logo_puc-rio.png" width="07%">
 
 ### Funding
 
-<img src="logo/faperj.jpg" width="20%"> &nbsp; &nbsp; <img src="logo/cnpq.png" width="20%"> &nbsp; &nbsp; <img src="logo/capes.png" width="10%"> &nbsp; <img src="logo/MS_Azure.jpg" width="20%">
+<img src="logo/faperj.png" width="20%"> &nbsp; &nbsp; <img src="logo/cnpq.png" width="20%"> &nbsp; &nbsp; <img src="logo/capes.png" width="10%"> &nbsp; <img src="logo/logo_azure.png" width="20%">
